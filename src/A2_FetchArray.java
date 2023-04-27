@@ -5,6 +5,7 @@ public class A2_FetchArray {
         Integer [] arr = {2, 3, 4, 1, 6, 1, 2, 5, 6,7,7,7,7, 9};
         ArrayList<Integer> arrayList = new ArrayList<Integer>();
         Collections.addAll(arrayList,arr);
+        //TODO: CRETE A NEW ONE
 
 
 
